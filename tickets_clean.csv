@@ -1,0 +1,39 @@
+text,category
+please enable two factor login for my account,Account
+my refund has not arrived yet,Billing
+bug in the search feature returns no results,Technical
+the credit card payment failed but money was deducted,Billing
+my account is locked after too many login attempts,Account
+the system is down and i cannot load anything,Technical
+cannot sign in to my profile,Account
+video player keeps buffering and then crashes,Technical
+upload keeps failing with a timeout error,Technical
+username change request for my profile,Account
+please send me an invoice for last month's payment,Billing
+update my name and phone number in my profile,Account
+page shows blank screen after loading,Technical
+i did not receive the verification email for my account,Account
+unable to log in with my registered email,Account
+i forgot my password and cannot log in,Account
+error 500 appears when i upload a file,Technical
+the mobile app freezes on the home screen,Technical
+how do i update my billing address on the invoice,Billing
+please reset my password,Account
+the website is very slow and pages do not load,Technical
+can i change my payment method to a different card,Billing
+how do i change the email address on my account,Account
+i want to delete my account permanently,Account
+software crashes after the latest update,Technical
+notifications are not working on my phone app,Technical
+report export fails with an unknown error,Technical
+api returns an error code when i send a request,Technical
+why is my bill higher than usual this month,Billing
+discount coupon was not applied to my payment,Billing
+i get a server error when i click submit,Technical
+i was charged twice for my subscription this month,Billing
+i want to cancel my plan and get a refund,Billing
+tax is missing on my invoice,Billing
+wrong amount charged on my credit card,Billing
+i need a receipt for my last transaction,Billing
+the app crashes every time i open the dashboard,Technical
+add a new user to my account,Account
